@@ -1,5 +1,4 @@
-# pizzaria
-Atividade Pizzaria
+
 Nome: Denise Felix Ferreira       Prontuário: GU3006891
 Nome: Estephany Nicole da Silva   Prontuário: GU3006913
 Nome: Isabella Carvalho           Prontuário: GU3006883
